@@ -218,7 +218,7 @@ How do we read primary sources to deepen our understanding?
 {{< tdopen >}}
 
 
-Students will each read two essays by Ida B. Wells or examine six visual sources (photos, short films, political cartoons). Write a short 1–2 page analysis of your primary sources. See the {{< resource_link 55d63d96-6b45-141b-5271-bb8b58faa104 "Assignments" >}} section for more detail.
+Students will each read two essays by Ida B. Wells or examine six visual sources (photos, short films, political cartoons). Write a short 1–2 page analysis of your primary sources. See the {{% resource_link 55d63d96-6b45-141b-5271-bb8b58faa104 "Assignments" %}} section for more detail.
 
 
 {{< tdclose >}}
@@ -262,7 +262,7 @@ _View_
 
 “[Corinne T. Field | Schlesinger Library - Suffrage School || Radcliffe Institute](https://www.youtube.com/watch?v=VG2Vq0g35J0).” YouTube. 
 
-\*Note: We will stage a mock version of the trial using documents from [Famous Trials](https://famous-trials.com/Anthony). See the {{< resource_link 55d63d96-6b45-141b-5271-bb8b58faa104 "Assignments" >}} section for more detail.
+\*Note: We will stage a mock version of the trial using documents from [Famous Trials](https://famous-trials.com/Anthony). See the {{% resource_link 55d63d96-6b45-141b-5271-bb8b58faa104 "Assignments" %}} section for more detail.
 
 
 {{< tdclose >}}

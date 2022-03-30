@@ -199,7 +199,7 @@ Doctress Neutopia. “Review: Joni Seager, Earth Follies: Coming to Feminist Ter
 Gengenbach, Heidi, Rachel A. Schurman, Thomas J. Bassett, et al. “[Limits of the New Green Revolution for Africa: Reconceptualizing Gendered Agricultural Value Chains](https://rgs-ibg.onlinelibrary.wiley.com/doi/abs/10.1111/geoj.12233).” *Geographical Journal* 184, no. 2 (2018) 208–14.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-\*\*Week 7: Work on your long papers and presentation of your questions   
+\*\*Week 7: Work on your long papers and presentation of your questions    
 \*\*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -289,8 +289,8 @@ When and how did genocidal rape become an international crime?
 
 “[Sexual Violence and the Triumph of Justice](https://www.youtube.com/watch?v=HZ4EM6iiq0k).” YouTube.
 
-*Suggested viewing (Choman Hardi reading from her poetry book* Considering the Women\_)   
-\_
+*Suggested viewing (Choman Hardi reading from her poetry book* Considering the Women)    
+ 
 
 “[Hardi Considering the Women](https://www.youtube.com/watch?v=c3_GnWR_Lb8).” YouTube.
 

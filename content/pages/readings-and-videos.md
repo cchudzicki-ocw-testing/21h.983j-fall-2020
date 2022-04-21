@@ -6,7 +6,7 @@ ocw_type: CourseSection
 title: Readings and Videos
 uid: dff5d9c8-b251-0dd4-c9c6-213aec8158d7
 ---
-\[H\] = Hinchy, Jessica. *Governing Gender and Sexuality in Colonial India: the* Hijra, c. 1850–1900. Cambridge University Press, 2020. ISBN: 9781108716888. 
+\[H\] = Hinchy, Jessica. *Governing Gender and Sexuality in Colonial India: the* Hijra, c. *1850–1900*. Cambridge University Press, 2020. ISBN: 9781108716888. 
 
 \[W\] = Ware, Susan. *Why They Marched: Untold Stories of the Women Who Fought for the Right to Vote*. Belknap Press, 2020. ISBN: 9780674248298. 
 
@@ -89,7 +89,7 @@ Bederman, Gail. “‘The White Man’s Civilization on Trial’: Ida B. Wells, 
 {{< tdclose >}}{{< tdopen >}}
 How do we read primary sources to deepen our understanding?
 {{< tdclose >}}{{< tdopen >}}
-Students will each read two essays by Ida B. Wells or examine six visual sources (photos, short films, political cartoons). Write a short 1–2 page analysis of your primary sources. See the {{% resource_link 55d63d96-6b45-141b-5271-bb8b58faa104 "Assignments" %}} section for more detail.
+Students will each read two essays by Ida B. Wells or examine six visual sources (photos, short films, political cartoons). Write a short 1–2 page analysis of your primary sources. See the {{% resource_link "55d63d96-6b45-141b-5271-bb8b58faa104" "Assignments" %}} section for more detail.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 4: Happy 100th Birthday to the 19th Amendment!**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -108,7 +108,7 @@ Why did the trial of Susan B. Anthony create a national sensation in 1873–74?
 
 “[Corinne T. Field | Schlesinger Library - Suffrage School || Radcliffe Institute](https://www.youtube.com/watch?v=VG2Vq0g35J0).” YouTube. 
 
-\*Note: We will stage a mock version of the trial using documents from [Famous Trials](https://famous-trials.com/Anthony). See the {{% resource_link 55d63d96-6b45-141b-5271-bb8b58faa104 "Assignments" %}} section for more detail.
+\*Note: We will stage a mock version of the trial using documents from [Famous Trials](https://famous-trials.com/Anthony). See the {{% resource_link "55d63d96-6b45-141b-5271-bb8b58faa104" "Assignments" %}} section for more detail.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -199,8 +199,7 @@ Doctress Neutopia. “Review: Joni Seager, Earth Follies: Coming to Feminist Ter
 Gengenbach, Heidi, Rachel A. Schurman, Thomas J. Bassett, et al. “[Limits of the New Green Revolution for Africa: Reconceptualizing Gendered Agricultural Value Chains](https://rgs-ibg.onlinelibrary.wiley.com/doi/abs/10.1111/geoj.12233).” *Geographical Journal* 184, no. 2 (2018) 208–14.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-\*\*Week 7: Work on your long papers and presentation of your questions    
-\*\*
+**Week 7: Work on your long papers and presentation of your questions** 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
@@ -289,7 +288,7 @@ When and how did genocidal rape become an international crime?
 
 “[Sexual Violence and the Triumph of Justice](https://www.youtube.com/watch?v=HZ4EM6iiq0k).” YouTube.
 
-*Suggested viewing (Choman Hardi reading from her poetry book* Considering the Women)    
+*Suggested viewing (Choman Hardi reading from her poetry book* Considering the Women)     
  
 
 “[Hardi Considering the Women](https://www.youtube.com/watch?v=c3_GnWR_Lb8).” YouTube.

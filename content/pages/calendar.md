@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes the course topics, select assignments, and key
+  due dates.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
